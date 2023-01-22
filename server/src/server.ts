@@ -28,3 +28,5 @@ connectToDatabase(ATLAS_URI)
  
    })
    .catch(error => console.error(error));
+
+   export const app = express();
